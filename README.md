@@ -1,1 +1,1 @@
-# test-connection
+# Pycharm encoding test
